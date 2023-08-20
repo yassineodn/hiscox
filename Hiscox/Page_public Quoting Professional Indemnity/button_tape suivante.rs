@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_tape suivante</name>
+   <tag></tag>
+   <elementGuidId>9301cbdb-adab-4de3-92c8-6601f833d993</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;continueButton&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='continueButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d9cb618-fa6b-4ace-9fa0-84a04a15395f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8b25a88e-7f0b-4351-bfd7-33b0877e2baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>continueButton</value>
+      <webElementGuid>65f1dade-7e4b-4ff8-be7c-bbdb483955e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formaction</name>
+      <type>Main</type>
+      <value>QuickQuoteQuestionsContinue</value>
+      <webElementGuid>6cdbc183-0490-4442-882c-25cf54ff8787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>instanda-button instanda-quote-button btn btn-primary</value>
+      <webElementGuid>3efd37a1-62ee-4e52-9a58-185d05e63a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Étape suivante </value>
+      <webElementGuid>91aaf983-69c5-4f78-82a6-807d9d31e369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;instandaquestions&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;pull-right&quot;]/button[@class=&quot;instanda-button instanda-quote-button btn btn-primary&quot;]</value>
+      <webElementGuid>31569b4e-cac9-4c5b-8db5-5c1de5d04b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='continueButton']</value>
+      <webElementGuid>d06f3c2f-70d9-481c-8435-b77ca37ea571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='instandaquestions']/div[2]/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>f2dc7913-2822-42af-9628-17a2f22646bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[1]</value>
+      <webElementGuid>c56aedc6-cf56-40db-8a84-6757f4f61802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Devis en ligne en 3 minutes'])[1]/following::button[2]</value>
+      <webElementGuid>daa66a19-9bb6-48d0-9b4a-ebaa61c01903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your session has expired, you will have to restart your quote'])[1]/preceding::button[1]</value>
+      <webElementGuid>a4e39e91-39b2-4b77-b6ac-ad7a3970cb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restart Quote'])[1]/preceding::button[1]</value>
+      <webElementGuid>8cc4c989-b817-4488-b218-1edf6b2b760f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Étape suivante']/parent::*</value>
+      <webElementGuid>1a730b75-a599-4d80-a1c6-37b003394159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>113077e0-bae3-4cd7-a9f2-fb19f5f42f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'continueButton' and (text() = 'Étape suivante ' or . = 'Étape suivante ')]</value>
+      <webElementGuid>5eb2bcfc-ac5c-44f5-8272-4523ef7c6de4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
